@@ -1,4 +1,12 @@
-proto
+Proto
 =====
 
-super simple proto env
+A super simple prototyping env with live reload
+
+````
+npm install -g grunt-cli
+npm install
+grunt
+````
+
+That's it
